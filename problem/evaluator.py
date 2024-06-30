@@ -4,7 +4,7 @@ import traceback
 
 from typing import Optional
 
-from example_adaptqsci import RunAlgorithm
+from answer import RunAlgorithm
 
 ###################################### Edit here for Calculating Accuracy ######################################
 seeds_list = [0]  # list of hamiltonian seeds to be used (e.g. [0, 1, 2, 3, 4], ...)
